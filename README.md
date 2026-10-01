@@ -1,35 +1,45 @@
-<h1 align="center">hiiya its koot 👋</h1>
+<h1 align="center">Hi, I'm Koot ♡</h1>
 
-<p align="center">i do stuff. sometimes it works</p>
+<p align="center">I study and manage servers, and I'm usually on Discord.</p>
 
 <p align="center">
   <a href="https://discord.com/users/1269263948939530254">
-    <img src="https://img.shields.io/badge/Discord-wompkoot-5865F2?logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-wompkoot-FFB6D9?logo=discord&logoColor=white&labelColor=FF8FC7" />
+  </a>
+  <a href="https://open.spotify.com/user/316gpex4fplogcyorishlw2gmcey">
+    <img src="https://img.shields.io/badge/Spotify-Køøt-FFB6D9?logo=spotify&logoColor=white&labelColor=FF8FC7" />
   </a>
 </p>
 
-## what i do
-i study or manage servers. its either one or the other depending on the day. mostly i just stare at a screen and hope nothing explodes
+<br>
 
-## what im listening to
-if the card below says spotify then im vibing rn. if it says nothing then im touching grass (jk)
+## 🌸 About me
 
-<a href="https://discord.com/users/1269263948939530254">
-  <img src="https://lanyard.cnrad.dev/api/1269263948939530254?theme=dark&hideDiscrim=true&borderRadius=12px" />
-</a>
+I study and manage servers. Outside of that, I spend most of my time on Discord, which is also the easiest place to reach me.
 
-## where to find me
-discord. thats where i live basically. im there 24/7 and not touching grass.
+<br>
 
-<a href="https://discord.com/users/1269263948939530254">
-  <img src="https://img.shields.io/badge/click_here_to_find_me-wompkoot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+## 🎧 Listening to
 
-or just search **wompkoot** on discord and send a friend req like a normal person
+When I'm playing music, it shows up below.
 
-## faq
-**is this profile finished?** no
-**do u know what ur doing?** debatable
-**will u reply on discord?** probably, if im not busy being a goblin
+<p align="center">
+  <a href="https://discord.com/users/1269263948939530254">
+    <img src="https://lanyard.cnrad.dev/api/1269263948939530254?theme=light&bg=FFDDEB&hideDiscrim=true&borderRadius=20px" />
+  </a>
+</p>
 
-<p align="center">thx for visiting, now go away 🫡</p>
+<br>
+
+## 💌 Contact
+
+The best way to reach me is on Discord. Search for **wompkoot** and send me a friend request, or click the button below to open my profile.
+
+<p align="center">
+  <a href="https://discord.com/users/1269263948939530254">
+    <img src="https://img.shields.io/badge/Message_me_on_Discord-wompkoot-FF8FC7?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/316gpex4fplogcyorishlw2gmcey">
+    <img src="https://img.shields.io/badge/Listen_on_Spotify-Køøt-FF8FC7?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
