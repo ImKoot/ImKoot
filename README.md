@@ -11,9 +11,8 @@
 ## what i do
 i study or manage servers. its either one or the other depending on the day. mostly i just stare at a screen and hope nothing explodes
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=ImKoot&theme=dark" />
-</a>
+## what im listening to
+if the card below says spotify then im vibing rn. if it says nothing then im touching grass (jk)
 
 <a href="https://discord.com/users/1269263948939530254">
   <img src="https://lanyard.cnrad.dev/api/1269263948939530254?theme=dark&hideDiscrim=true&borderRadius=12px" />
