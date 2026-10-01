@@ -31,7 +31,7 @@ When I'm playing music, it shows up below.
 
 <br>
 
-## 💌 Contact
+## ❓ Contact
 
 The best way to reach me is on Discord. Search for **wompkoot** and send me a friend request, or click the button below to open my profile.
 
