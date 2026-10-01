@@ -1,14 +1,10 @@
-<h1 align="center">Hi, I'm Koot ♡</h1>
+<h1 align="center">Hiiya! I'm Koot &lt;3</h1>
 
 <p align="center">I study and manage servers, and I'm usually on Discord.</p>
 
 <p align="center">
-  <a href="https://discord.com/users/1269263948939530254">
-    <img src="https://img.shields.io/badge/Discord-wompkoot-FFB6D9?logo=discord&logoColor=white&labelColor=FF8FC7" />
-  </a>
-  <a href="https://open.spotify.com/user/316gpex4fplogcyorishlw2gmcey">
-    <img src="https://img.shields.io/badge/Spotify-Køøt-FFB6D9?logo=spotify&logoColor=white&labelColor=FF8FC7" />
-  </a>
+  <a href="https://discord.com/users/1269263948939530254"><img height="40" src="https://img.shields.io/badge/Discord-wompkoot-FFB6D9?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF8FC7" /></a>
+  <a href="https://open.spotify.com/user/316gpex4fplogcyorishlw2gmcey"><img height="40" src="https://img.shields.io/badge/Spotify-Køøt-FFB6D9?style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF8FC7" /></a>
 </p>
 
 <br>
