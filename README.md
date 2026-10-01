@@ -9,7 +9,7 @@
 
 <br>
 
-## 🌸 About me
+## 🖤 About Koot
 
 I study and manage servers. Outside of that, I spend most of my time on Discord, which is also the easiest place to reach me.
 
