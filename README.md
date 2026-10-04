@@ -1,7 +1,7 @@
-<h2 align="center">about me:</h2>
+<h2 align="center">About Me:</h2>
 
 <p align="center">
-I either study or manage servers. One of those is kind of a lie, but I'll let you guess.<br>
+Hello there, My name is Koot. I either study or manage servers. One of those is kind of a lie, but I'll let you guess.<br>
 Most of it is me sitting in front of a black screen until it works. It usually does, and I'm okay with that.
 </p>
 
@@ -19,7 +19,7 @@ No pressure though, say hi whenever 🩷
   <a href="https://open.spotify.com/user/316gpex4fplogcyorishlw2gmcey"><img src="https://img.shields.io/badge/Spotify-K%C3%B8%C3%B8t-1DB954?logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
-<h2 align="center">projects:</h2>
+<h2 align="center">Projects:</h2>
 
 <div align="center">
 <summary>🌸 <b>FloriaSMP</b> - Owner, Aug 2026 - Present (still in the works)</summary>
