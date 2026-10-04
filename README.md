@@ -24,10 +24,3 @@ No pressure though, say hi whenever 🩷
 <div align="center">
 <details>
 <summary>🌸 <b>FloriaSMP</b> - Owner, Aug 2026 - Present (still in the works)</summary>
-<br>
-A Minecraft survival server that I run. I set it up, write the configs, and fiddle with the tab list,<br>
-tags and plugins until they look right. Then I look at them again and change them anyway.<br>
-It's never really finished, which is a great excuse for every bug.
-<br><br>
-</details>
-</div>
