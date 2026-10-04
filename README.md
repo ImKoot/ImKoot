@@ -1,13 +1,33 @@
-## about me:
-
-I either study or manage servers. One of those is kind of a lie, but I'll let you guess.
-Most of it is me sitting in front of a black screen until it works. It usually does. and I'm okay with that.
-
-If you need me, add me on Discord, it's wompkoot. That's pretty much where I live. I'll reply when I can. It might take a bit. It might be a gif. I might just say "what".
-
-No pressure though, say hi whenever 🩷
+<h2 align="center">about me:</h2>
 
 <p align="center">
-  <a href="https://discord.com/users/1269263948939530254"><img height="32" src="https://img.shields.io/badge/Discord-wompkoot-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://open.spotify.com/user/316gpex4fplogcyorishlw2gmcey"><img height="32" src="https://img.shields.io/badge/Spotify-K%C3%B8%C3%B8t-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"></a>
+I either study or manage servers. One of those is kind of a lie, but I'll let you guess.<br>
+Most of it is me sitting in front of a black screen until it works. It usually does, and I'm okay with that.
 </p>
+
+<p align="center">
+If you need me, add me on Discord, it's wompkoot. That's pretty much where I live.<br>
+I'll reply when I can. It might take a bit. It might be a gif. I might just say "what".
+</p>
+
+<p align="center">
+No pressure though, say hi whenever 🩷
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/1269263948939530254"><img src="https://img.shields.io/badge/Discord-wompkoot-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://open.spotify.com/user/316gpex4fplogcyorishlw2gmcey"><img src="https://img.shields.io/badge/Spotify-K%C3%B8%C3%B8t-1DB954?logo=spotify&logoColor=white" alt="Spotify"></a>
+</p>
+
+<h2 align="center">projects:</h2>
+
+<div align="center">
+<details>
+<summary>🌸 <b>FloriaSMP</b> - Owner, Aug 2026 - Present (still in the works)</summary>
+<br>
+A Minecraft survival server that I run. I set it up, write the configs, and fiddle with the tab list,<br>
+tags and plugins until they look right. Then I look at them again and change them anyway.<br>
+It's never really finished, which is a great excuse for every bug.
+<br><br>
+</details>
+</div>
