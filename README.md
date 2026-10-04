@@ -1,7 +1,6 @@
 ## about me:
 
 I either study or manage servers. One of those is kind of a lie, but I'll let you guess.
-
 Most of it is me sitting in front of a black screen until it works. It usually does. and I'm okay with that.
 
 If you need me, add me on Discord, it's wompkoot. That's pretty much where I live. I'll reply when I can. It might take a bit. It might be a gif. I might just say "what".
