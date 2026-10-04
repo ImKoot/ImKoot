@@ -22,5 +22,4 @@ No pressure though, say hi whenever 🩷
 <h2 align="center">projects:</h2>
 
 <div align="center">
-<details>
 <summary>🌸 <b>FloriaSMP</b> - Owner, Aug 2026 - Present (still in the works)</summary>
