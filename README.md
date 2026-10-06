@@ -16,7 +16,6 @@ No pressure though, say hi whenever 🩷
 
 <p align="center">
   <a href="https://discord.com/users/1269263948939530254"><img src="https://img.shields.io/badge/Discord-wompkoot-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://open.spotify.com/user/316gpex4fplogcyorishlw2gmcey"><img src="https://img.shields.io/badge/Spotify-K%C3%B8%C3%B8t-1DB954?logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
 <h2 align="center">Projects:</h2>
