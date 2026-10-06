@@ -12,8 +12,3 @@ i'll reply when i can, might take a bit. Ps; if I reply with just "what" it's ca
 <p align="center">
 <a href="https://discord.com/users/1269263948939530254"><img src="https://img.shields.io/badge/Discord-wompkoot-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
 </p>
-
-<h2 align="center">Projects:</h2>
-
-<div align="center">
-<summary>🌸 <b>FloriaSMP</b> - Owner, Aug 2026 - Present (still in the works)</summary>
