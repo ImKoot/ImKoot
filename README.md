@@ -1,17 +1,13 @@
 <h2 align="center">About Me:</h2>
 
 <p align="center">
-Hello there, My name is Koot. I either study or manage servers. One of those is kind of a lie, but I'll let you guess.<br>
-Most of it is me sitting in front of a black screen until it works. It usually does, and I'm okay with that.
+Hello there, My name is Koot. Just a simple guy doing simple things everyday.
+I either study or manage servers.
 </p>
 
 <p align="center">
-If you need me, add me on Discord, it's wompkoot. That's pretty much where I live.<br>
-I'll reply when I can. It might take a bit. It might be a gif. I might just say "what".
-</p>
-
-<p align="center">
-No pressure though, say hi whenever 🩷
+If you need anything from me, feel free to add me on discord. You'll always find me
+online, or online but with the status set as "Busy".
 </p>
 
 <p align="center">
